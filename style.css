@@ -1,0 +1,20 @@
+*{
+    font-size: 20px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 100vh;
+}
+
+th, td{
+    border: 3px solid black;
+    padding: 1vh;
+}
+th{
+    text-align: left;
+    background-color: rgba(181, 216, 207, 0.623);
+}
+td {
+    background-color: rgba(220, 245, 231, 0.61);
+}
